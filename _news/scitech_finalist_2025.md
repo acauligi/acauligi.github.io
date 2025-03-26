@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congratulations to Kazu Echigo for being selected as a finalist for the 2025 AIAA SciTech GNC Graduate Student Paper Competition for our paper on applying stochastic trajectory optimization for asteroid reconnaissance!
+Congratulations to Kazu Echigo for being a AIAA SciTech GNC Graduate Paper competition finalist for [our paper](https://arxiv.org/abs/2412.06816) on stochastic optimal control!
