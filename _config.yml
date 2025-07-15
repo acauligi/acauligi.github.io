@@ -1,0 +1,13 @@
+title: Abhishek Cauligi 
+position: Assistant Professor
+email: cauligi@jhu.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal website and portfolio
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+cv_url: /assets/AbhishekCauligi_CV.pdf
+profile_image: /assets/img/Cauligi.png
+
+# Build settings
+plugins:
+  - jekyll-feed
