@@ -41,6 +41,27 @@
         a:hover {
             text-decoration: underline;
         }
+        .profile-section {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 700px) {
+  .profile-section {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+  .profile-image {
+    width: 80vw;
+    max-width: 300px;
+    height: auto;
+  }
+  .profile-content {
+    width: 100%;
+}
     </style>
 </head>
 <body>
