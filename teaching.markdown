@@ -4,5 +4,5 @@ title: Teaching
 permalink: /teaching/
 ---
 
-- **[Trajectory Design for Space Systems](http://jhu-acel.github.io/trajdesign/)**  
+- **[Trajectory Design for Space Systems](https://acelab.me.jhu.edu/trajdesign/)**
   Fall 2025
