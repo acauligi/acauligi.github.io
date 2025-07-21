@@ -124,14 +124,14 @@
             <div style="display: flex; flex-direction: column; align-items: center;">
                 <img src="{{ site.profile_image }}" alt="Profile Photo" class="profile-image">
                 <div class="links" style="margin-top: 1rem; text-align: center;">
-                    {% if site.email %}
-                    <a href="mailto:{{ site.email }}">email</a>
-                    {% endif %}
-                    <a href="https://github.com/acauligi">github</a>
                     {% if site.cv_url %}
                     <a href="{{ site.cv_url }}">cv</a>
                     {% endif %}
+                    {% if site.email %}
+                    <a href="mailto:{{ site.email }}">email</a>
+                    {% endif %}
                     <a href="https://scholar.google.com/citations?user=xYlJvxwAAAAJ&hl=en">google scholar</a>
+                    <a href="https://github.com/acauligi">github</a>
                 </div>
             </div>
             {% endif %}
